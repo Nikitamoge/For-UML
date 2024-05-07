@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "For UML", "For UML\For UML.vcxproj", "{6C799A23-43FE-4D91-A862-AE589D951DAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C799A23-43FE-4D91-A862-AE589D951DAB}.Debug|x64.ActiveCfg = Debug|x64
+		{6C799A23-43FE-4D91-A862-AE589D951DAB}.Debug|x64.Build.0 = Debug|x64
+		{6C799A23-43FE-4D91-A862-AE589D951DAB}.Debug|x86.ActiveCfg = Debug|Win32
+		{6C799A23-43FE-4D91-A862-AE589D951DAB}.Debug|x86.Build.0 = Debug|Win32
+		{6C799A23-43FE-4D91-A862-AE589D951DAB}.Release|x64.ActiveCfg = Release|x64
+		{6C799A23-43FE-4D91-A862-AE589D951DAB}.Release|x64.Build.0 = Release|x64
+		{6C799A23-43FE-4D91-A862-AE589D951DAB}.Release|x86.ActiveCfg = Release|Win32
+		{6C799A23-43FE-4D91-A862-AE589D951DAB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2A69DD3-5D24-44CB-9297-5E376939FE46}
+	EndGlobalSection
+EndGlobal
